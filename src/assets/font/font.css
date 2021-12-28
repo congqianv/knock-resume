@@ -1,0 +1,9 @@
+@font-face {
+  font-family: title-en;
+  src: url(./title-en.ttf);
+}
+
+@font-face {
+  font-family: title-zh;
+  src: url(./title-zh.ttf);
+}
